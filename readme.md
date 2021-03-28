@@ -4,7 +4,10 @@
 
 * 1.b ".gitignore"
 
-gitignore sirve para indicar al programa git que no rastree el estado de los archivos señalados en este, esto significa que no guardara registro de los cambios ni los subira al repositorio.
+.gitignore sirve para indicar al programa git que no rastree el estado de los archivos señalados en este, esto significa que no guardara registro de los cambios ni los subira al repositorio.
 Incluitlo nos permite tener control de qué compartimos. 
 Podemos usar la pagina https://www.gitignore.io para que nos cree un .ignore apropiado, solo tenemos que señalar qué programas estamos usando.
+
+* 2 El punto b) y c) nos dan el mismo resultado ya que mostramos el contenido del puntero (que es la direccion de la variable) y en el otro punto mostramos la direcicon de la varible. Mientras en el punto d) obtenemos la direccion del puntero, la cual es diferente por que es otra variable distinta. 
+
 
