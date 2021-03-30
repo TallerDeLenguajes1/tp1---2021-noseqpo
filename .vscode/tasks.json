@@ -2,8 +2,8 @@
     "tasks": [
         {
             "type": "cppbuild",
-            "label": "C/C++: gcc.exe compilar archivo activo",
-            "command": "D:\\installers\\w64devkit\\bin\\gcc.exe",
+            "label": "C/C++: g++.exe compilar archivo activo",
+            "command": "D:\\installers\\w64devkit\\bin\\g++.exe",
             "args": [
                 "-g",
                 "${file}",
